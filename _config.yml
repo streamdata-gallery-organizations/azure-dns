@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: azure-dns.api.streamdata.gallery
+title: Streamdata Gallery Azure DNS
+url: azure-dns.streamdata.gallery
 tag: Azure DNS
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: azure-dns
 github_branch: master
 collections:
