@@ -8,10 +8,10 @@ description: Azure DNS lets you host your DNS domains alongside your Azure apps 
   can be sure your DNS will always be fast and available.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-dns-01-host.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Azure DNS
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-dns/master/_listings/azure-dns/apis.md
 specificationVersion: "0.14"
 apis:
