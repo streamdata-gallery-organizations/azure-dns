@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Azure DNS",
+	"description": "This is a repository of azure dns APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/azure-dns.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://azure-dns.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Azure DNS",
+			"x-api-slug": "azure-dns",
+			"description": "Azure DNS lets you host your DNS domains alongside your Azure apps and manage DNS records by using your existing Azure subscription. Microsoft&rsquo;s global network of name servers has the reach, scale, and redundancy to ensure ultra-fast DNS responses and ultra-high availability for your domains. With Azure DNS, you can be sure your DNS will always be fast and available.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-dns-01-host.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/dns/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Azure DNS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-dns/master/_listings/azure-dns/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Azure DNS",
+	"include": [
+		{
+			"name": "Azure DNS",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-dns/master/_listings/azure-dns/apis.yaml"
+		}
+	]
+}
